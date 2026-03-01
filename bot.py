@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 
 # ====== توکن ربات ======
-TOKEN = "8753484247:AAEgYxn-E-RWUHvefV3LxMyt6LwTKbKfSc8"
+
 bot = telebot.TeleBot(TOKEN, parse_mode="Markdown")
 
 # ⚠️ ربات باید ادمین گروه باشد
